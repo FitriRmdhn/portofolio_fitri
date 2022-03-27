@@ -17,14 +17,14 @@ class Portofolio extends Controller
             echo "
             <script>
             alert('Data berhasil dikirim')
-            window.location.href= 'http://localhost/latihan_ukk/public/'
+            window.location.href= 'http://localhost/portofolio_fitri/portofolio/public/'
             </script>      
             ";
             
         }
         else{
             echo "gagal terkirim
-            window.location.href= 'http://localhost/latihan_ukk/public/'
+            window.location.href= 'http://localhost/portofolio_fitri/portofolio/public/'
             ";
         }   
 
